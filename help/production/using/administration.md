@@ -72,10 +72,6 @@ Here is a list of the usual administration commands accessible in Linux (as **Ad
   **nlserver restart web**
 
   >[!NOTE]
-  >
-
-  >
-  >    
   >    
   >    * If the instance is not specified, the "default" instance will be used.
   >    * In the event of an emergency, use the **-immediate** option to force an immediate halt to the process (equivalent to Unix command **kill -9**).
